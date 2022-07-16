@@ -9,6 +9,7 @@ const films = [
 			"https://hbomax-images.warnermediacdn.com/images/GYGP7pwQv_ojDXAEAAAFc/tileburnedin?size=1280x720&partner=hbomaxcom&language=es-419&v=a286f1df6bfcc7903f33b83456e214c8&host=art-gallery-latam.api.hbo.com&w=1280",
 		category: "films",
 		title: "Interestellar",
+		price: 300,
 	},
 	{
 		id: 2,
@@ -16,6 +17,7 @@ const films = [
 			"https://estaticos-cdn.prensaiberica.es/clip/1123acc3-3395-4237-9ca0-95ee19999279_16-9-aspect-ratio_default_0.jpg",
 		category: "films",
 		title: "Star trek",
+		price: 200,
 	},
 	{
 		id: 3,
@@ -23,6 +25,7 @@ const films = [
 			"https://4.bp.blogspot.com/-rvOo_gV60wo/XG0SXrdG0UI/AAAAAAAAdNk/5pre1wXF8UAw65g3S1zDzXgjXMxCAU0zQCEwYBhgL/s400/ro5.jpg",
 		category: "films",
 		title: "Ronin",
+		price: 100,
 	},
 	{
 		id: 4,
@@ -30,6 +33,7 @@ const films = [
 			"https://as01.epimg.net/meristation/imagenes/2021/10/13/noticias/1634118017_674906_1634118171_noticia_normal.jpg",
 		category: "series",
 		title: "The Walking dead",
+		price: 50,
 	},
 	{
 		id: 5,
@@ -37,6 +41,7 @@ const films = [
 			"https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2019/10/22/breakingBad.jpg",
 		category: "series",
 		title: "Breaking bad",
+		price: 150,
 	},
 ];
 
